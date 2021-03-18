@@ -3,11 +3,7 @@
 ## My work
 
 :small_orange_diamond: Exercises from 1 - 34 are done <br>
-:small_orange_diamond: I didn't do the 16 exercise  <br>
-:small_orange_diamond: I didn't do the 31 exercise  <br>
-:small_orange_diamond: Now I'm working with the exercise 35 <br>
-:small_orange_diamond: I’m not sure if the exercise 21 is done correctly <br>
-:small_orange_diamond: I think I did exercise 16 <br>
+
 
 
 <br>
@@ -16,16 +12,9 @@
 
 <br>
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **I don't understand the 16 assignment content  ask the tacher!!!!!!** ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
-<br>
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **I don't understand the 21 assignment content  ask the tacher!!!!!!** ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
-<br>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **This repository is copied from my JAMK University of Applied Sciences (Finland) Gitlab.
+** ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **I don't understand the 25 assignment content  ask the tacher!!!!!!** ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
-<br>
-
-
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **I don't do exercise 31 yet (32 is easier) !!!!!!** ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 <br>
 
 
@@ -36,7 +25,7 @@
 
 
 ```console
-I modified the previous Readme.md and add new one to help me with the project
+
 
 A student forks this project and pushes script programming assignments in it before given deadline following the instructions below.
 ```
